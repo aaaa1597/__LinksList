@@ -5,3 +5,6 @@ https://docs.google.com/presentation/d/1Plm5aBwXrCAFpLVTKlp-ii2dgb_rl9Kj/edit?us
 
 ## WebRTCテスト
 http://192.168.1.3:8080/html/test.html
+
+## 参考
+https://docs.google.com/presentation/d/19NN1fu1Lgr-75t6pmPrwBV17LdZ8_yQV/edit?usp=sharing&ouid=112088469475433929760&rtpof=true&sd=true
