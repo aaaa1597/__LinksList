@@ -8,3 +8,9 @@ http://192.168.1.3:8080/html/test.html
 
 ## ti(Texas Instruments)の方向検知モジュール 最低10個から
 https://www.ti.com/store/ti/en/p/product/?p=LAUNCHXL-CC2640R2
+
+## Googleのsamples
+https://android.googlesource.com/platform/development/+/master/samples
+
+## Googleのsamples
+
