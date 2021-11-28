@@ -14,3 +14,9 @@ https://android.googlesource.com/platform/development/+/master/samples
 
 ## Googleのsamples2
 https://developer.android.com/samples?hl=ja
+
+## (Android)AIDLを利用して、Remote Serviceの実装
+https://codechacha.com/ja/android-remote-service-with-aidl/
+
+## (Android)他のアプリのServiceにバインド
+https://codechacha.com/ja/android-bind-to-services-from-another-apps/
