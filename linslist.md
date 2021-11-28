@@ -12,5 +12,5 @@ https://www.ti.com/store/ti/en/p/product/?p=LAUNCHXL-CC2640R2
 ## Googleのsamples
 https://android.googlesource.com/platform/development/+/master/samples
 
-## Googleのsamples
-
+## Googleのsamples2
+https://developer.android.com/samples?hl=ja
