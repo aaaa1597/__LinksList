@@ -20,3 +20,7 @@ https://codechacha.com/ja/android-remote-service-with-aidl/
 
 ## (Android)他のアプリのServiceにバインド
 https://codechacha.com/ja/android-bind-to-services-from-another-apps/
+
+## マルチビーム・測深器/ソナー
+https://www.hydro-sys.com/product_list.php?lid=2
+http://www.ko-marine.com/service/marine/multibeam/multibeam.htm
