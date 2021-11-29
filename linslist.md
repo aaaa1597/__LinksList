@@ -23,4 +23,8 @@ https://codechacha.com/ja/android-bind-to-services-from-another-apps/
 
 ## マルチビーム・測深器/ソナー
 https://www.hydro-sys.com/product_list.php?lid=2
+<br/>
 http://www.ko-marine.com/service/marine/multibeam/multibeam.htm
+<br/>
+https://www.hydro-sys.com/detail.php?pid=20&lid=2&gclid=Cj0KCQiA7oyNBhDiARIsADtGRZY7R1XPJ9DJY4fLEZj5MhDpXlWslmbDqO1yrYVyv22ejLdJNxyAmZMaAgg7EALw_wcB
+<br/>
