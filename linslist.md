@@ -28,3 +28,7 @@ http://www.ko-marine.com/service/marine/multibeam/multibeam.htm
 <br/>
 https://www.hydro-sys.com/detail.php?pid=20&lid=2&gclid=Cj0KCQiA7oyNBhDiARIsADtGRZY7R1XPJ9DJY4fLEZj5MhDpXlWslmbDqO1yrYVyv22ejLdJNxyAmZMaAgg7EALw_wcB
 <br/>
+
+## マルチビームソナー - 建設・測量生産性向上展
+https://cspi-expo.com/productinfo2021/2021pd259/
+<br/>
